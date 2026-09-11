@@ -64,9 +64,6 @@ Verificar se o número é ímpar ou par.
 ### Exercício 20
 Simulador de empréstimo bancário.
 
-### Exercício 21
-Jogo da adivinhação ,com números e palavras.
-
 
 ## 🧠 O que foi praticado:
 - Entrada de dados (input)
